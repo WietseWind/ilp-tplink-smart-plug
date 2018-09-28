@@ -1,0 +1,20 @@
+{
+  "name": "ilp-tplink-smart-plug",
+  "version": "0.1.0",
+  "description": "ILP Enabled TP-Link (HS100/HS110) Smart Plug",
+  "author": "Wietse Wind <mail@wietse.com>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "discover": "node discover.js",
+    "go": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "ilp-plugin": "^3.1.1",
+    "ilp-protocol-stream": "^1.4.2",
+    "koa": "^2.5.2",
+    "localtunnel": "^1.9.1",
+    "tplink-smarthome-api": "*"
+  }
+}
