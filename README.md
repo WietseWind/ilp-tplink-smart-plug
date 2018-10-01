@@ -1,6 +1,6 @@
 # ILP based power switch for TP-Link Smart Plugs
 
-Allows you to switch a **tp-link** `HS-100` / `HS-110` Smart Plug based on incoming streaming ILP payments.
+Allows you to switch a **tp-link**  `HS-110` Smart Plug based on incoming streaming ILP payments (The `HS-100` doesn't offer Power Monitoring, so if one day someone (or I) updates the code to adjust the payments to the actual power use, you'll need the `HS-110`!)
 
 [![Demo](https://d3kn1gt.dlvr.cloud/ilp.png)](https://www.youtube.com/watch?v=QjtKNiPP7B8 "Click to play on Youtube")
 
