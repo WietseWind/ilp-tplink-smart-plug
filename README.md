@@ -2,6 +2,8 @@
 
 Allows you to switch a **tp-link** `HS-100` / `HS-110` Smart Plug based on incoming streaming ILP payments.
 
+[![Demo](https://d3kn1gt.dlvr.cloud/ilp.png)](https://www.youtube.com/watch?v=QjtKNiPP7B8 "Click to play on Youtube")
+
 ## Howto
 
 Make sure you have a local [**moneyd** instance configured (XRP at livenet)](https://medium.com/interledger-blog/joining-the-live-ilp-network-eab123a73665) running on your local computer.
